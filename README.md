@@ -26,3 +26,6 @@ Evaluated regional sales distribution for market focus
 🎯 Outcome
 The dashboard provides a 360° view of sales performance, helping stakeholders quickly identify trends, opportunities, and areas for improvement through an easy-to-use and visually appealing interface.
 
+<img width="606" height="350" alt="image" src="https://github.com/user-attachments/assets/e378bc9e-1c7b-4ec5-9e3a-c1563fad5913" />
+
+
